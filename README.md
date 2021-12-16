@@ -1,6 +1,6 @@
 ### Hi, I'm Meiling👋
 
-I'm a software engineer based in New York City. I build apps with JavaScript and Python. I used to be a writer and worked in marketing, but now I mostly just write code. I love soccer and food and making apps that combine those interests.
+I'm a software engineer based in New York City. I build apps with JavaScript and Python. I used to be a writer and worked in marketing, but now I mostly write code. I love soccer and food and making apps that combine those interests.
 
 ---
 <div align="center">
