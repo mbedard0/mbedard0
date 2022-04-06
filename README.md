@@ -2,6 +2,12 @@
 
 I'm a software engineer based in New York City. I build apps with JavaScript and Python. I used to be a writer and worked in marketing, but now I mostly write code. I love soccer and food and making apps that combine those interests.
 
+What I'm working on now:
+<ul>
+  <li><a href="https://github.com/mbedard0/acnh-collector-front-end">Animal Crossing New Horizons Collector</a>: A website to help you collect villagers, creatures, and items for your New Horizons island.</li>
+  <li><a href="https://github.com/mbedard0/fighting-ships">Fighting Ships</a>: A Battleship inspired iOS app.</li>
+<ul>
+
 ---
 <div align="center">
   <a href="#"><img align="center" src="https://github-readme-stats.vercel.app/api?username=mbedard0&hide=stars,issues&include_all_commits=true&count_private=true&show_icons=true&theme=tokyonight" /></a>
